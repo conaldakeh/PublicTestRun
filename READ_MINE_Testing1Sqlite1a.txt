@@ -1,0 +1,5 @@
+
+Testing1Sqlite1a:
+
+Normal Install (from Notes)
+Without any modification.
